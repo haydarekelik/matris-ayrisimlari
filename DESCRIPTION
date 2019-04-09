@@ -1,0 +1,9 @@
+Package: firstpaket
+Type: Package
+Title: LU Decomposition
+Version: 1.0
+Date: 2019-04-07
+Author: Haydar Ekelik
+Maintainer: Haydar Ekelik <ekelik.haydar@gmail.com>
+Description: factorize a given matrix with upper triangular and lower triangular
+License: 1.0
